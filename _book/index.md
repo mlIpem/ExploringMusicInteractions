@@ -1,7 +1,7 @@
 --- 
 title: "Exploring music interactions"
 author: "Marc Leman"
-date:  '2025-01-17'
+date:  '2025-01-23'
 site: bookdown::bookdown_site
 output: bookdown::bs4_book
 documentclass: krantz
@@ -17,8 +17,8 @@ graphics: yes
 cover-image: "images/cover.jpeg"
 description:
  "*Exploring music interactions* has a focus on musical data analysis, visualization and statistical modeling. It will interest readers in extending their knowledge about human behavior, basically, while performing music. Explorations are based on R, the R package `brms`, and Stan, a probabilistic programming language. "
-github-repo: https://github.com/mlIpem/StatisticalMusicologyBookRepository
-url: https://mlIpem.github.io/StatisticalMusicologyBookRepository
+github-repo: https://github.com/mlIpem/ExploringMusicInteractions
+url: https://mlIpem.github.io/ExploringMusicInteractions
 ---
 
 

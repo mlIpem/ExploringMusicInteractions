@@ -49,7 +49,7 @@ mean(prior_combined_with_likelihood_distribution)
 ```
 
 ```
-## [1] -0.5493197
+## [1] -0.5497362
 ```
 
 ``` r
@@ -57,7 +57,7 @@ std(prior_combined_with_likelihood_distribution)
 ```
 
 ```
-## [1] 0.266463
+## [1] 0.268872
 ```
 
 The dog approaches and you observe it more friendly than you expected on the basis of your (new) prior belief.
